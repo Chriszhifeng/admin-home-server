@@ -29,6 +29,10 @@ const routes = [
     path: '/List',
     name: 'List',
     component: () => import(/* webpackChunkName: "about" */ '../views/List.vue')
+  },{
+    path: '/NavMenu',
+    name: 'NavMenu',
+    component: () => import(/* webpackChunkName: "about" */ '../views/NavMenu.vue')
   },
 ]
 
