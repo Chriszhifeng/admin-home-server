@@ -5,3 +5,6 @@
 * 是
 - 前端向后端请求数据中间件响应需求给到后端，后端根据API定义的内容实现逻辑需求
 - [x] 已经实现的功能
+![GitHub All Releases]/github/downloads/chriszhifeng/git@github.com:Chriszhifeng/admin-home-server.git/total
+
+https://img.shields.io/github/downloads/chriszhifeng/git@github.com:Chriszhifeng/admin-home-server.git/total?color=skyblue&logo=%E4%B8%8B%E8%BD%BD%E9%87%8F&logoColor=skyblue&style=social
