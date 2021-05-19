@@ -7,4 +7,4 @@
 - [x] 已经实现的功能
 
 
-![GitHub all releases](https://img.shields.io/github/downloads/chriszhifeng/git@github.com:Chriszhifeng/admin-home-server.git/total?style=social)
+                              ![GitHub all releases](https://img.shields.io/github/downloads/chriszhifeng/git@github.com:Chriszhifeng/admin-home-server.git/total?style=social)
