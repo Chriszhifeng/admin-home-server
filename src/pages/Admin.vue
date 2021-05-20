@@ -9,10 +9,10 @@
 <script>
 export default {
   name: "home",
-  data: (){
+  data() {
     return {
-      msg: 'Welcome to the Admin page'
-    }
+      msg: "Welcome to the Admin page",
+    };
   },
 };
 </script>
