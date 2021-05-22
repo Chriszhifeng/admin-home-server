@@ -1,6 +1,6 @@
 <template>
   <div class="edit">
-    <h1>This is an List page</h1>
+    <h1>列表</h1>
   </div>
 </template>
 

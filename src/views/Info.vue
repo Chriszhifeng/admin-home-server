@@ -1,6 +1,6 @@
 <template>
   <div class="edit">
-    <h1>This is an Info page</h1>
+    <h1>信息</h1>
   </div>
 </template>
 
