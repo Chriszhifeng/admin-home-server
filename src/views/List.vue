@@ -1,5 +1,5 @@
 <template>
-  <div class="edit">
+  <div class="list">
     <h1>列表</h1>
   </div>
 </template>
