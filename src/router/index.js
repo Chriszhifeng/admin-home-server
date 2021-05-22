@@ -31,14 +31,10 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/info.vue')
   },
   {
-<<<<<<< HEAD
     path: '/list',
     name: 'list',
     component: () => import(/* webpackChunkName: "about" */ '../views/list.vue')
   },
-  
-=======
- 
 ]
 
 const router = createRouter({
