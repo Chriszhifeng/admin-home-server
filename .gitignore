@@ -1,5 +1,5 @@
 # db
-/db
+db/
 .DS_Store
 node_modules
 /dist
