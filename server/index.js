@@ -1,3 +1,10 @@
+/*
+ * @Author: Chris:)
+ * @Date: 2021-05-22 18:00:06
+ * @LastEditTime: 2021-05-23 22:02:29
+ * @LastEditors: Chris:)
+ * @FilePath: /admin-home-server/server/index.js
+ */
 // 引入express
 const express = require('express')
 const app = express()
@@ -21,7 +28,5 @@ const model = new Schema({
 app.get('/', (req,res) => {
   res.send('helloworld')
 })
-
-
 
 app.listen(3000, () => console.log(`Example app listening on port 3000!`))
