@@ -1,7 +1,7 @@
 /*
  * @Author: Chris:)
  * @Date: 2021-05-23 22:11:46
- * @LastEditTime: 2021-05-24 09:27:40
+ * @LastEditTime: 2021-05-24 10:07:03
  * @LastEditors: Chris:)
  * @FilePath: /admin-home-server/admin/src/router/index.js
  */
@@ -29,11 +29,8 @@ const routes = [
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-<<<<<<< HEAD
     component: () => import('../views/about.vue')
-=======
-    component: () => import( '../views/about.vue')
->>>>>>> dev
+
   },
   {
     path: '/edit',
