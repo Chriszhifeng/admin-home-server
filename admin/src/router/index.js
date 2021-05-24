@@ -1,7 +1,7 @@
 /*
  * @Author: Chris:)
  * @Date: 2021-05-23 22:11:46
- * @LastEditTime: 2021-05-24 10:07:03
+ * @LastEditTime: 2021-05-24 10:08:40
  * @LastEditors: Chris:)
  * @FilePath: /admin-home-server/admin/src/router/index.js
  */
@@ -17,11 +17,7 @@ const routes = [
   {
     path: '/nav',
     name: 'nav',
-<<<<<<< HEAD
     component: () => import('../views/nav.vue')
-=======
-    component: () => import( '../views/nav.vue')
->>>>>>> dev
   },
   {
     path: '/about',
@@ -35,29 +31,18 @@ const routes = [
   {
     path: '/edit',
     name: 'edit',
-<<<<<<< HEAD
-    component: () => import('../views/edit.vue')
-=======
     component: () => import( '../views/edit.vue')
->>>>>>> dev
   },
   {
     path: '/info',
     name: 'info',
-<<<<<<< HEAD
     component: () => import('../views/info.vue')
-=======
-    component: () => import( '../views/info.vue')
->>>>>>> dev
+
   },
   {
     path: '/list',
     name: 'list',
-<<<<<<< HEAD
     component: () => import('../views/list.vue')
-=======
-    component: () => import( '../views/list.vue')
->>>>>>> dev
   },
 ]
 
