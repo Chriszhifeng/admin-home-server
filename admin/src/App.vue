@@ -1,3 +1,11 @@
+<!--
+ * @Author: Chris:)
+ * @Date: 2021-05-24 09:28:55
+ * @LastEditTime: 2021-05-24 10:00:46
+ * @LastEditors: Chris:)
+ * @FilePath: /admin-home-server/admin/src/App.vue
+-->
+
 <template>
   <div id="nav">
     <router-link to="/">Home</router-link> |
@@ -9,5 +17,3 @@
   </div>
   <router-view />
 </template>
-
-
