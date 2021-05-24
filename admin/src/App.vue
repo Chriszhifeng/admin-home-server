@@ -1,21 +1,18 @@
+<!--
+ * @Author: Chris:)
+ * @Date: 2021-05-23 22:11:46
+ * @LastEditTime: 2021-05-24 09:23:23
+ * @LastEditors: Chris:)
+ * @FilePath: /admin-home-server/admin/src/App.vue
+-->
 <template>
   <div id="nav">
     <router-link to="/">Home</router-link> |
-<<<<<<< HEAD
-    <router-link to="/about">About</router-link>
-    <router-link to="/Edit">Edit</router-link>
-    <router-link to="/Info">Info</router-link>
-    <router-link to="/List">List</router-link>
-    <router-link to="/NavMenu">NavMenu</router-link>
-=======
     <router-link to="/nav">Nav</router-link> |
     <router-link to="/about">About</router-link> |
     <router-link to="/edit">Edit</router-link> |
     <router-link to="/info">Info</router-link> |
     <router-link to="/list">List</router-link>
->>>>>>> dev
   </div>
   <router-view />
 </template>
-
-
