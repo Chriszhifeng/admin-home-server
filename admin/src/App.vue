@@ -1,10 +1,12 @@
 <!--
  * @Author: Chris:)
+<<<<<<< HEAD
  * @Date: 2021-05-23 22:11:46
- * @LastEditTime: 2021-05-24 09:23:23
+ * @LastEditTime: 2021-05-24 10:04:20
  * @LastEditors: Chris:)
  * @FilePath: /admin-home-server/admin/src/App.vue
 -->
+
 <template>
   <div id="nav">
     <router-link to="/">Home</router-link> |
