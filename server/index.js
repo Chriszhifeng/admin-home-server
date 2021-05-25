@@ -1,7 +1,7 @@
 /*
  * @Author: Chris:)
  * @Date: 2021-05-22 18:00:06
- * @LastEditTime: 2021-05-23 22:02:29
+ * @LastEditTime: 2021-05-25 16:25:46
  * @LastEditors: Chris:)
  * @FilePath: /admin-home-server/server/index.js
  */
@@ -17,7 +17,7 @@ const db = mongoose.connect('mongodb://localhost/db', {
 })
 // 定义接口模型
 const Schema = mongoose.schema
-const ObjectId = Schema,ObjectId
+const ObjectId = Schema.ObjectId
 
 const model = new Schema({
   author: ObjectId,
