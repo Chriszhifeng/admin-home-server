@@ -1,7 +1,7 @@
 /*
  * @Author: Chris:)
  * @Date: 2021-05-22 18:00:06
- * @LastEditTime: 2021-05-26 16:33:16
+ * @LastEditTime: 2021-05-26 16:40:32
  * @LastEditors: Chris:)
  * @FilePath: /admin-home-server/server/index.js
  */
@@ -49,8 +49,21 @@ db.once('open', () => {
 //   body:   String,
 //   data:   Date
 // })
+// 发送查看获取请求
 app.get('/', (req,res) => {
   res.send('helloworld')
+})
+// 发送创建请求
+app.post('/', (req,res) => {
+  res.send('')
+})
+// 发送删除请求 
+app.delete('/', (req,res) => {
+  res.send('')
+})
+// 发送更新请求
+app.put('/', (req,res) => {
+  res.send('')
 })
 
 app.listen(8880, () => console.log(`Example app listening on port 8880!`))
