@@ -1,7 +1,7 @@
 /*
  * @Author: Chris:)
  * @Date: 2021-05-22 18:00:06
- * @LastEditTime: 2021-05-26 16:40:32
+ * @LastEditTime: 2021-05-27 22:23:00
  * @LastEditors: Chris:)
  * @FilePath: /admin-home-server/server/index.js
  */
@@ -30,10 +30,6 @@ db.once('open', () => {
     console.log('connection db success')
 
 })
-
-
-
-
 
 
 
