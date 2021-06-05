@@ -1,8 +1,7 @@
 <!--
  * @Author: Chris:)
-<<<<<<< HEAD
  * @Date: 2021-05-23 22:11:46
- * @LastEditTime: 2021-05-24 10:04:20
+ * @LastEditTime: 2021-06-05 17:35:05
  * @LastEditors: Chris:)
  * @FilePath: /admin-home-server/admin/src/App.vue
 -->
