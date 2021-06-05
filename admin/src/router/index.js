@@ -1,12 +1,7 @@
 /*
  * @Author: Chris:)
-<<<<<<< HEAD
  * @Date: 2021-05-23 22:11:46
- * @LastEditTime: 2021-05-24 10:08:40
-=======
- * @Date: 2021-06-05 11:02:16
- * @LastEditTime: 2021-06-05 17:21:06
->>>>>>> dev
+ * @LastEditTime: 2021-06-05 17:28:07
  * @LastEditors: Chris:)
  * @FilePath: /admin-home-server/admin/src/router/index.js
  */
